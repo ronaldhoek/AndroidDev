@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro">Meest recente berichten</string>
+    <string name="app_name">Kennisbank lezer CA</string>
+    <string name="app_desc">Met deze applicatie kunnen de meeste recente kennisbankberichten worden opgevraagd</string>
+    <string name="dlg_username">Gebruikersnaam</string>
+    <string name="dlg_password">Wachtwoord</string>
+    <string name="dlg_username_hint">Gebruikersnaam kennisbank</string>
+    <string name="dlg_password_hint">Uw wachtwoord</string>
+    <string name="ico_desc_type">Type</string>
+
+</resources>

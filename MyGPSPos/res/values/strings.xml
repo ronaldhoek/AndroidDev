@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My GPS Position</string>
+    <string name="refresh_button">Refresh location</string>
+    <string name="gps_location">Your\nGPS\nLocation</string>
+    <string name="dummy">&lt;dummy&gt;</string>
+
+</resources>
